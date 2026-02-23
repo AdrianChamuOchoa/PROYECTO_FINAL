@@ -16,4 +16,4 @@ Abre el siguiente enlace:
 https://adrianchamuochoa.github.io/PROYECTO_FINAL/
 
 ## 👤 Autor
-Adrián
+Adrián Chamu Ochoa
